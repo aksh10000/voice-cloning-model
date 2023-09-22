@@ -9,3 +9,9 @@ https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/wiki/Instr
 But since I used the pretrained model, I did not have to apply these steps.
  
 After the model is trained is trained we feed in our .wav input file and the model outputs a .wav file which will be the audio of the person on which the model has been trained, i.e. in this case kanye west and elon musk.
+
+To run the model copy of my RVC google colab notebook is linked below:
+
+https://colab.research.google.com/drive/15jB1R-fH44YIQ_3jqkZ15arFNflV2CDr?usp=sharing
+
+We have a pretty good pretrained model for elon musk voice which has been trained for over 200 epochs.
